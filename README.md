@@ -1,6 +1,6 @@
 #Task 1:
 
-This repository contais the source code of Social Media Sentiment Analysis using Machine Learning
+This repository contains the source code of Social Media Sentiment Analysis using Machine Learning
 
 Dataset used: Sentiment140 dataset
  
